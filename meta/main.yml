@@ -1,0 +1,23 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: miniedu
+  description: miniedu History Demo
+  company: "MiniEdu"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.4
+  platforms:
+    - name: Moodle
+      versions:
+        - 3.6.2
+        - 2.4
+  galaxy_tags:
+    - australia
+    - wa
+    - history
+    - year11
+    - grade11
+    - demo
+    - test
+    - prototype
